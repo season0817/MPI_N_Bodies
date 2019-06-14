@@ -1,0 +1,8 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 _MPI_Recv，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _MPI_Ssend，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _MPI_Comm_size，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _MPI_Comm_rank，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _MPI_Init，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _MPI_Finalize，该符号在函数 _main 中被引用
+C:\Program Files\MPICH2\lib\mpi.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\season\Documents\Visual Studio 2015\Projects\mpichLab\Project2\Debug\Project2.exe : fatal error LNK1120: 6 个无法解析的外部命令

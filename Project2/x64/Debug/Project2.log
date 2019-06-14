@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(58): warning C4244: “参数”: 从“float”转换到“std::size_t”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(136): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(137): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(140): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(141): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(176): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(177): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(50): warning C4101: “request”: 未引用的局部变量
+c:\users\season\documents\visual studio 2015\projects\mpichlab\project2\project2\main.cpp(49): warning C4101: “status”: 未引用的局部变量
+  Project2.vcxproj -> C:\Users\season\Documents\Visual Studio 2015\Projects\mpichLab\Project2\x64\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\season\Documents\Visual Studio 2015\Projects\mpichLab\Project2\x64\Debug\Project2.pdb (Partial PDB)
